@@ -17,9 +17,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 10.05.2018.
- */
 @Controller
 @RequestMapping("article")
 public class ArticleController {
