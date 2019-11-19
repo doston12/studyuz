@@ -23,9 +23,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 13.05.2018.
- */
+
 @Controller
 public class LoginController {
     @Autowired
