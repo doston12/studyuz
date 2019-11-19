@@ -7,4 +7,4 @@
 
 2. MySql is used as DMBS
 
-3. HTML5&CSS3 and JSP is used for front-end
+3. HTML5&CSS3, BOOTSTRAP, jquery and JSP is used for front-end
