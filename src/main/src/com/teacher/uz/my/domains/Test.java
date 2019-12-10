@@ -9,9 +9,6 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Collection;
 
-/**
- * Created by Shoh Jahon on 03.05.2018.
- */
 @Entity
 @Table(name = TableNames.test)
 public class Test implements Serializable{
