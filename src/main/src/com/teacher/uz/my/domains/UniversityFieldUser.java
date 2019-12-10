@@ -5,9 +5,7 @@ import com.teacher.uz.my.domains.enumerations.TableNames;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 23.04.2018.
- */
+
 @Entity
 @Table(name = TableNames.universityFieldUser)
 public class UniversityFieldUser implements Serializable{
