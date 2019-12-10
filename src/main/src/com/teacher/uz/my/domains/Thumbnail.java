@@ -11,9 +11,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.UUID;
 
-/**
- * Created by Shoh Jahon on 24.04.2018.
- */
 @Entity
 @Table(name = TableNames.thumbnail)
 public class Thumbnail implements Serializable{
