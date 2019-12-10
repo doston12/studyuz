@@ -7,9 +7,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;
 
-/**
- * Created by Shoh Jahon on 12.04.2018.
- */
 public class UserValidator implements Validator {
     @Autowired
     private UserService userService;
