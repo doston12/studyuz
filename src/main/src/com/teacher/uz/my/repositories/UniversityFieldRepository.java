@@ -6,9 +6,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 12.04.2018.
- */
 public interface UniversityFieldRepository extends JpaRepository<UniversityField, Long> {
     public List<University> getUniversityFieldsByUniversity(University university);
 }
