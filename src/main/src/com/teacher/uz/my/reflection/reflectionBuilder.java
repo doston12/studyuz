@@ -3,9 +3,6 @@ package com.teacher.uz.my.reflection;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 
-/**
- * Created by Shoh Jahon on 13.04.2018.
- */
 public class reflectionBuilder {
     private Class<?> c;
 
