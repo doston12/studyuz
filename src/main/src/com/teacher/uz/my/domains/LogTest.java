@@ -5,9 +5,6 @@ import com.teacher.uz.my.domains.enumerations.TableNames;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 04.05.2018.
- */
 @Entity
 @Table(name = TableNames.testLog)
 public class LogTest implements Serializable{
