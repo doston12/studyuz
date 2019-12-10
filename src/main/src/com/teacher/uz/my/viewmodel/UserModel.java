@@ -2,9 +2,6 @@ package com.teacher.uz.my.viewmodel;
 
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 14.05.2018.
- */
 public class UserModel implements Serializable {
     private static final Long serialVersionUID = 1L;
 
