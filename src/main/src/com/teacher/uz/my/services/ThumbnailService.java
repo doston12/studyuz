@@ -9,9 +9,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 04.05.2018.
- */
 @Service
 public class ThumbnailService {
     @Autowired
