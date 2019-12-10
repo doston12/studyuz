@@ -8,9 +8,6 @@ import org.springframework.stereotype.Service;
 import javax.transaction.Transactional;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 20.04.2018.
- */
 @Service
 @Transactional
 public class UniversityFieldUserService {
