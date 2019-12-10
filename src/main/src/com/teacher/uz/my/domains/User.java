@@ -14,9 +14,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.UUID;
 
-/**
- * Created by Shoh Jahon on 10.04.2018.
- */
 @Entity
 @Table(name = TableNames.user)
 public class User implements Serializable {
