@@ -1,8 +1,5 @@
 package com.teacher.uz.my.viewmodel;
 
-/**
- * Created by Shoh Jahon on 19.05.2018.
- */
 public class Response {
     private String status;
     private Object data;
