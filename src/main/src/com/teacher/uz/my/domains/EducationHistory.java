@@ -8,9 +8,6 @@ import java.text.SimpleDateFormat;
 import java.time.Instant;
 import java.util.Date;
 
-/**
- * Created by Shoh Jahon on 24.04.2018.
- */
 @Entity
 @Table(name = TableNames.eduHistory)
 public class EducationHistory implements Serializable{
