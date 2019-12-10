@@ -6,9 +6,6 @@ import com.teacher.uz.my.domains.User;
 
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 14.04.2018.
- */
 public class RegisterModel implements Serializable {
     private static final Long serialVersionUID = 1L;
 
