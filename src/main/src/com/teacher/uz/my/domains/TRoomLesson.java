@@ -6,9 +6,6 @@ import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.Collection;
 
-/**
- * Created by Shoh Jahon on 18.05.2018.
- */
 @Entity
 @Table(name = "teacher_room_lesson")
 public class TRoomLesson {
