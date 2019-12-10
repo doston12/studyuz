@@ -8,9 +8,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 
-/**
- * Created by Shoh Jahon on 24.04.2018.
- */
 @Entity
 @Table(name = TableNames.subject)
 public class Subject implements Serializable{
