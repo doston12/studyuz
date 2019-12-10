@@ -8,9 +8,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by Shoh Jahon on 14.04.2018.
- */
 public class FileUploadUtility {
 
     private static final String ABS_PATH = "D:\\Intellij\\Teacher.uz\\MyTeacher.Uz\\src\\main\\webapp\\resources\\images\\thumbnails\\";
