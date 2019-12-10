@@ -11,9 +11,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 04.05.2018.
- */
 @Service
 public class EducationHistoryService {
     @Autowired
