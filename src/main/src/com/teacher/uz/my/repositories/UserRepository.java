@@ -6,10 +6,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-
-/**
- * Created by Shoh Jahon on 12.04.2018.
- */
 public interface UserRepository extends JpaRepository<User, Long> {
     public User getUserByEmail(String email);
     public List<User> findUsersByRole(String role);
