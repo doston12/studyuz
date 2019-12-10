@@ -9,9 +9,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 
-/**
- * Created by Shoh Jahon on 02.05.2018.
- */
 @Entity
 @Table(name = TableNames.comment)
 public class Comment implements Serializable {
