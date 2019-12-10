@@ -7,9 +7,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 
-/**
- * Created by Shoh Jahon on 18.05.2018.
- */
 @Entity
 @Table(name = "my_group")
 public class Group implements Serializable{
