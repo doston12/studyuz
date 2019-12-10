@@ -3,9 +3,6 @@ package com.teacher.uz.my.domains;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 19.05.2018.
- */
 @Entity
 @Table(name = "student_teacher_schedule")
 public class StudentTLesson implements Serializable{
