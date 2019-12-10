@@ -2,9 +2,6 @@ package com.teacher.uz.my.viewmodel;
 
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 20.05.2018.
- */
 public class ScheduleModel implements Serializable {
     private int userId;
     private String dayOfWeek;
