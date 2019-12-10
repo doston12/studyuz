@@ -10,9 +10,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 
-/**
- * Created by Shoh Jahon on 03.05.2018.
- */
 @Entity
 @Table(name = TableNames.repassLog)
 public class RepassLog implements Serializable {
