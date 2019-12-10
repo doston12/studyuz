@@ -15,10 +15,6 @@ import org.springframework.binding.message.MessageContext;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Component;
 
-
-/**
- * Created by Shoh Jahon on 13.04.2018.
- */
 @Component
 public class RegisterHandler {
     @Autowired
