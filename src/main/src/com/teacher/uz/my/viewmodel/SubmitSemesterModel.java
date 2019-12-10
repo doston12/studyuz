@@ -2,9 +2,6 @@ package com.teacher.uz.my.viewmodel;
 
 import java.io.Serializable;
 
-/**
- * Created by Shoh Jahon on 19.05.2018.
- */
 public class SubmitSemesterModel implements Serializable {
     private String password;
     private String email;
