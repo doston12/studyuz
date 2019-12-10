@@ -8,9 +8,6 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 13.04.2018.
- */
 @Service
 public class UniversityService {
     @Autowired
