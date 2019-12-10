@@ -9,9 +9,6 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collection;
 
-/**
- * Created by Shoh Jahon on 10.04.2018.
- */
 @Entity
 @Table(name = TableNames.field)
 public class Field implements Serializable{
