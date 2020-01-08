@@ -1,7 +1,8 @@
 # studyuz
 
 
-# This project was developed in Spring MVC and Spring Data JPA
+# University students and staff management system for universities
+This project was developed in Spring MVC and Spring Data JPA
 
 1. Maven is used as Building tool
 
